@@ -20,7 +20,8 @@
       <pubDate>Sun, 24 Nov 2019 01:45:22 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
       <guid>http://www.example.com/2019/11/24/firstpost/</guid>
-      <description>Bonjour ceci est mon premier post !</description>
+      <description>Bonjour ceci est mon premier post !
+Appernetic à l&amp;rsquo;air de sortir du lot relativement à mes besoins, strapi &amp;amp; hugo font-ils bon ménage ?</description>
     </item>
     
   </channel>
